@@ -14,3 +14,4 @@
 {"question_id": 60, "text": "What happens next in the scene depicted by these two images?", "image_0": "video/img_15.png", "image_1": "video/img_16.png", "type": "temporal"}
 {"question_id": 60, "text": "What happens next in the scene depicted by these two images?", "image_0": "video/img_16.png", "image_1": "video/img_17.png", "type": "temporal"}
 {"question_id": 73, "text": "How would the camera need to move between taking these two images to capture both vantage points of this scene?", "image_0": "7001/9513acf29318.jpg", "image_1": "7001/409ad24ed372.jpg", "type": "spatial"}
+{"question_id": 100, "text": "How would the subject of these two images move to go from the first position to the second?", "image_0": "7002/aaef30281aa3.jpg", "image_1": "7002/fc0e1a4cc507.jpg", "type": "spatial"}
