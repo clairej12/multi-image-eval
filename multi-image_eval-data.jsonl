@@ -106,68 +106,98 @@
 {"question_id": 131, "text": "How are these two images different?", "image_0": "7003/bbb423a5049b.jpg", "image_1": "7003/9ebac623d922.jpg", "type": "difference"}
 {"question_id": 132, "text": "How are these two images different?", "image_0": "7003/a381054d8bd3.jpg", "image_1": "7003/771a65e34805.jpg", "type": "difference"}
 {"question_id": 133, "text": "How are these two images different?", "image_0": "7003/bc80e78a7841.jpg", "image_1": "7003/ef1756cb6621.jpg", "type": "difference"}
-{"question_id": 135, "text": "How are these two images different?", "image_0": "7003/4a132a8ee523.jpg", "image_1": "7003/066499ff9130.jpg"}
-{"question_id": 136, "text": "How are these two images different?", "image_0": "7003/d2887d3dd6f2.jpg", "image_1": "7003/4943febcdd71.jpg"}
-{"question_id": 137, "text": "How are these two images different?", "image_0": "7003/32bfe3d9c0b4.jpg", "image_1": "7003/667291dccc73.jpg"}
-{"question_id": 138, "text": "How are these two images different?", "image_0": "7003/0a4d632f78c4.jpg", "image_1": "7003/ddc8aea04d0d.jpg"}
-{"question_id": 139, "text": "How are these two images different?", "image_0": "7003/1593912a5d22.jpg", "image_1": "7003/8f2e2fa35794.jpg"}
-{"question_id": 140, "text": "How are these two images different?", "image_0": "7003/68eb591652a0.jpg", "image_1": "7003/049ba25d4258.jpg"}
-{"question_id": 141, "text": "How are these two images different?", "image_0": "7003/2688ab4048b4.jpg", "image_1": "7003/385f354c6bd1.jpg"}
-{"question_id": 142, "text": "How are these two images different?", "image_0": "7003/f6c48f3c7751.jpg", "image_1": "7003/7285bb34280a.jpg"}
-{"question_id": 143, "text": "How are these two images different?", "image_0": "7003/b662c0275e38.jpg", "image_1": "7003/9d811f758cd6.jpg"}
-{"question_id": 144, "text": "How are these two images different?", "image_0": "7003/03fe11a25a2d.jpg", "image_1": "7003/470623c9f9b2.jpg"}
-{"question_id": 145, "text": "How are these two images different?", "image_0": "7003/d56436802407.jpg", "image_1": "7003/49edd0ac6f5e.jpg"}
-{"question_id": 146, "text": "How are these two images different?", "image_0": "7003/d1d8a8a0ce1f.jpg", "image_1": "7003/d1ce62e36817.jpg"}
-{"question_id": 147, "text": "How are these two images different?", "image_0": "7003/7cfe33fa9e04.jpg", "image_1": "7003/235cf69f3ed6.jpg"}
-{"question_id": 148, "text": "How are these two images different?", "image_0": "7003/75592a8818e9.jpg", "image_1": "7003/b76f6629fdf6.jpg"}
-{"question_id": 149, "text": "How are these two images different?", "image_0": "7003/8108df98311f.jpg", "image_1": "7003/6447917486a5.jpg"}
-{"question_id": 150, "text": "How are these two images different?", "image_0": "7003/e0f604d8a60d.jpeg", "image_1": "7003/a3537e07cc3e.jpeg"}
-{"question_id": 151, "text": "How are these two images different?", "image_0": "7004/026e44458866.jpg", "image_1": "7004/49610ca81706.jpg"}
-{"question_id": 152, "text": "How are these two images different?", "image_0": "7004/cfa56ee641fa.jpg", "image_1": "7004/12899e4f1570.jpg"}
-{"question_id": 153, "text": "How are these two images different?", "image_0": "7004/24598a19fe28.jpg", "image_1": "7004/c629ac5833eb.jpg"}
-{"question_id": 154, "text": "How are these two images different?", "image_0": "7004/3a486ef745b2.jpg", "image_1": "7004/b4cdf784e5b7.jpg"}
-{"question_id": 155, "text": "How are these two images different?", "image_0": "7004/8cd0ece63351.jpg", "image_1": "7004/8682eb461704.jpg"}
-{"question_id": 156, "text": "How are these two images different?", "image_0": "7004/2ee2871db954.jpg", "image_1": "7004/106e41fa84f1.jpg"}
-{"question_id": 157, "text": "How are these two images different?", "image_0": "7004/b2e613321523.jpg", "image_1": "7004/36379135b4a2.jpg"}
-{"question_id": 158, "text": "How are these two images different?", "image_0": "7004/cba737229a50.jpg", "image_1": "7004/6de6a631ac9e.jpg"}
-{"question_id": 159, "text": "How are these two images different?", "image_0": "7004/b2aead342edf.jpg", "image_1": "7004/a82e5c9ec6d0.jpg"}
-{"question_id": 160, "text": "How are these two images different?", "image_0": "7004/7fadb45e41f4.jpg", "image_1": "7004/5942c0b62eae.jpg"}
-{"question_id": 161, "text": "How are these two images different?", "image_0": "7004/6c181ad7d547.jpg", "image_1": "7004/e0c44ba27664.jpg"}
-{"question_id": 162, "text": "How are these two images different?", "image_0": "7004/41a35c12a3d5.png", "image_1": "7004/a8cf89dd2867.png"}
-{"question_id": 163, "text": "How are these two images different?", "image_0": "7004/25d511c398fe.jpg", "image_1": "7004/2da46e8367d0.jpg"}
-{"question_id": 164, "text": "How are these two images different?", "image_0": "7004/c24c7db4b2d2.jpg", "image_1": "7004/614f5c05694b.jpg"}
-{"question_id": 165, "text": "How are these two images different?", "image_0": "7004/de9a3eb43e77.jpg", "image_1": "7004/9c6fa7e4e374.jpg"}
-{"question_id": 166, "text": "How are these two images different?", "image_0": "7004/18adc9e6b4b2.jpg", "image_1": "7004/88c25b771974.jpg"}
-{"question_id": 167, "text": "How are these two images different?", "image_0": "7004/a9dc0dd34bcb.jpg", "image_1": "7004/cabdc5bf109c.jpg"}
-{"question_id": 168, "text": "How are these two images different?", "image_0": "7004/761768a51cd1.jpg", "image_1": "7004/80749f139e14.jpg"}
-{"question_id": 169, "text": "How are these two images different?", "image_0": "7004/285bac489231.jpg", "image_1": "7004/2e65527d81d7.jpg"}
-{"question_id": 170, "text": "How are these two images different?", "image_0": "7004/5d9477fa2e12.jpg", "image_1": "7004/1ff838b32f8f.jpg"}
-{"question_id": 171, "text": "How are these two images different?", "image_0": "7004/fb4942358337.jpg", "image_1": "7004/23d3845d268f.jpg"}
-{"question_id": 172, "text": "How are these two images different?", "image_0": "7004/9953b1f84cd5.jpg", "image_1": "7004/f38b9722f0fd.jpg"}
-{"question_id": 173, "text": "How are these two images different?", "image_0": "7004/5a81ec0399df.jpg", "image_1": "7004/11e61b22f74e.jpg"}
-{"question_id": 174, "text": "How are these two images different?", "image_0": "7004/27f1a8a71f1f.jpg", "image_1": "7004/323398dc2414.jpg"}
-{"question_id": 175, "text": "How are these two images different?", "image_0": "7004/936dfffe8fa2.jpg", "image_1": "7004/8e134f2b0056.jpg"}
-{"question_id": 176, "text": "How are these two images different?", "image_0": "7004/380c18ded44f.jpg", "image_1": "7004/67c81585f578.jpg"}
-{"question_id": 177, "text": "How are these two images different?", "image_0": "7004/0f097a3cc034.jpg", "image_1": "7004/46d3d1284b2f.jpg"}
-{"question_id": 178, "text": "How are these two images different?", "image_0": "7004/bfe994f22c17.jpg", "image_1": "7004/8af442ab89b5.jpg"}
-{"question_id": 179, "text": "How are these two images different?", "image_0": "7005/9dc7719655b8.jpg", "image_1": "7005/54d055861823.jpg"}
-{"question_id": 180, "text": "How are these two images different?", "image_0": "7005/15442fa55c58.jpg", "image_1": "7005/291cee369145.jpg"}
-{"question_id": 181, "text": "How are these two images different?", "image_0": "7005/7c9a174b715d.jpg", "image_1": "7005/9cfef042f922.jpg"}
-{"question_id": 182, "text": "How are these two images different?", "image_0": "7005/d19794358dbc.png", "image_1": "7005/5dbdcbc3ecc2.png"}
-{"question_id": 183, "text": "How are these two images different?", "image_0": "7005/db36c8b41b46.jpg", "image_1": "7005/d96b0a3973fe.jpg"}
-{"question_id": 184, "text": "How are these two images different?", "image_0": "7005/f93c2862129e.jpg", "image_1": "7005/244b5480df81.jpg"}
-{"question_id": 185, "text": "How are these two images different?", "image_0": "7005/c16b9d8e45ec.jpg", "image_1": "7005/def1c20758f0.jpg"}
-{"question_id": 186, "text": "How are these two images different?", "image_0": "7005/9be1b602ffef.jpg", "image_1": "7005/d49ecaf74148.jpg"}
-{"question_id": 187, "text": "How are these two images different?", "image_0": "7005/6ddf5b10292a.jpg", "image_1": "7005/bf69e8efc8a3.jpg"}
-{"question_id": 188, "text": "How are these two images different?", "image_0": "7005/d72ce4e05538.jpg", "image_1": "7005/f3a838bb4ac5.jpg"}
-{"question_id": 189, "text": "How are these two images different?", "image_0": "7005/fc28f8660f00.jpg", "image_1": "7005/ccd5b0af7e97.jpg"}
-{"question_id": 190, "text": "How are these two images different?", "image_0": "7005/819961f87005.jpg", "image_1": "7005/cf37a9ccb20d.jpg"}
-{"question_id": 191, "text": "How are these two images different?", "image_0": "7005/8074045617c3.jpg", "image_1": "7005/e05a7e6a9f51.jpg"}
-{"question_id": 192, "text": "How are these two images different?", "image_0": "7005/bab24876b4cb.jpg", "image_1": "7005/6e4ce473e0dd.jpg"}
-{"question_id": 193, "text": "How are these two images different?", "image_0": "7005/590ecdb59e20.jpg", "image_1": "7005/52477ca2da1a.jpg"}
-{"question_id": 194, "text": "How are these two images different?", "image_0": "7005/fd37692894ec.jpg", "image_1": "7005/faa89db00243.jpg"}
-{"question_id": 195, "text": "How are these two images different?", "image_0": "7005/c976081cb7cc.jpg", "image_1": "7005/55d56db99f22.jpg"}
-{"question_id": 196, "text": "How are these two images different?", "image_0": "7005/be14fab044d9.jpg", "image_1": "7005/ef5c02318609.jpg"}
-{"question_id": 197, "text": "How are these two images different?", "image_0": "7005/56b6d6e0c29f.jpg", "image_1": "7005/814980682732.jpg"}
-{"question_id": 198, "text": "How are these two images different?", "image_0": "7005/4e62c872a9bf.jpg", "image_1": "7005/f8b9c0099da8.jpg"}
-{"question_id": 199, "text": "How are these two images different?", "image_0": "7005/2e90a304545b.png", "image_1": "7005/b670e31dd09c.jpg"}
+{"question_id": 135, "text": "What are key distinctions between these two images?", "image_0": "7003/4a132a8ee523.jpg", "image_1": "7003/066499ff9130.jpg", "type": "difference"}
+{"question_id": 136, "text": "What are the key distinctions between these two images?", "image_0": "7003/d2887d3dd6f2.jpg", "image_1": "7003/4943febcdd71.jpg", "type": "difference"}
+{"question_id": 137, "text": "How are these two images different?", "image_0": "7003/32bfe3d9c0b4.jpg", "image_1": "7003/667291dccc73.jpg", "type": "difference"}
+{"question_id": 138, "text": "How are these two images different?", "image_0": "7003/0a4d632f78c4.jpg", "image_1": "7003/ddc8aea04d0d.jpg", "type": "difference"}
+{"question_id": 139, "text": "How are these two images different?", "image_0": "7003/1593912a5d22.jpg", "image_1": "7003/8f2e2fa35794.jpg", "type": "difference"}
+{"question_id": 142, "text": "How are these two images different?", "image_0": "7003/f6c48f3c7751.jpg", "image_1": "7003/7285bb34280a.jpg", "type": "difference"}
+{"question_id": 143, "text": "How are these two images different?", "image_0": "7003/b662c0275e38.jpg", "image_1": "7003/9d811f758cd6.jpg", "type": "difference"}
+{"question_id": 144, "text": "How are these two images different?", "image_0": "7003/03fe11a25a2d.jpg", "image_1": "7003/470623c9f9b2.jpg", "type": "difference"}
+{"question_id": 145, "text": "How are these two images different?", "image_0": "7003/d56436802407.jpg", "image_1": "7003/49edd0ac6f5e.jpg", "type": "difference"}
+{"question_id": 146, "text": "How are these two images different?", "image_0": "7003/d1d8a8a0ce1f.jpg", "image_1": "7003/d1ce62e36817.jpg", "type": "difference"}
+{"question_id": 149, "text": "How are these two images different?", "image_0": "7003/8108df98311f.jpg", "image_1": "7003/6447917486a5.jpg", "type": "difference"}
+{"question_id": 150, "text": "How are the items depicted in these two images different?", "image_0": "7003/e0f604d8a60d.jpeg", "image_1": "7003/a3537e07cc3e.jpeg", "type": "difference"}
+{"question_id": 151, "text": "How are these two images different?", "image_0": "7004/026e44458866.jpg", "image_1": "7004/49610ca81706.jpg", "type": "difference"}
+{"question_id": 153, "text": "How are these two images different?", "image_0": "7004/24598a19fe28.jpg", "image_1": "7004/c629ac5833eb.jpg", "type": "difference"}
+{"question_id": 155, "text": "How are these two images different?", "image_0": "7004/8cd0ece63351.jpg", "image_1": "7004/8682eb461704.jpg", "type": "difference"}
+{"question_id": 156, "text": "How are these two images different?", "image_0": "7004/2ee2871db954.jpg", "image_1": "7004/106e41fa84f1.jpg", "type": "difference"}
+{"question_id": 157, "text": "How are these two images different?", "image_0": "7004/b2e613321523.jpg", "image_1": "7004/36379135b4a2.jpg", "type": "difference"}
+{"question_id": 159, "text": "How are these two images different?", "image_0": "7004/b2aead342edf.jpg", "image_1": "7004/a82e5c9ec6d0.jpg", "type": "difference"}
+{"question_id": 160, "text": "How are these two images different?", "image_0": "7004/7fadb45e41f4.jpg", "image_1": "7004/5942c0b62eae.jpg", "type": "difference"}
+{"question_id": 161, "text": "How are these two images different?", "image_0": "7004/6c181ad7d547.jpg", "image_1": "7004/e0c44ba27664.jpg", "type": "difference"}
+{"question_id": 162, "text": "How are these two images different?", "image_0": "7004/41a35c12a3d5.png", "image_1": "7004/a8cf89dd2867.png", "type": "difference"}
+{"question_id": 163, "text": "How are these two images different?", "image_0": "7004/25d511c398fe.jpg", "image_1": "7004/2da46e8367d0.jpg", "type": "difference"}
+{"question_id": 166, "text": "How are these two images different?", "image_0": "7004/18adc9e6b4b2.jpg", "image_1": "7004/88c25b771974.jpg", "type": "difference"}
+{"question_id": 168, "text": "How are these two images different?", "image_0": "7004/761768a51cd1.jpg", "image_1": "7004/80749f139e14.jpg", "type": "difference"}
+{"question_id": 169, "text": "How are these two images different?", "image_0": "7004/285bac489231.jpg", "image_1": "7004/2e65527d81d7.jpg", "type": "difference"}
+{"question_id": 170, "text": "How are these two images different?", "image_0": "7004/5d9477fa2e12.jpg", "image_1": "7004/1ff838b32f8f.jpg", "type": "difference"}
+{"question_id": 171, "text": "How are these two images different?", "image_0": "7004/fb4942358337.jpg", "image_1": "7004/23d3845d268f.jpg", "type": "difference"}
+{"question_id": 172, "text": "How are these two images different?", "image_0": "7004/9953b1f84cd5.jpg", "image_1": "7004/f38b9722f0fd.jpg", "type": "difference"}
+{"question_id": 174, "text": "How are these two images different?", "image_0": "7004/27f1a8a71f1f.jpg", "image_1": "7004/323398dc2414.jpg", "type": "difference"}
+{"question_id": 175, "text": "How are these two images different?", "image_0": "7004/936dfffe8fa2.jpg", "image_1": "7004/8e134f2b0056.jpg", "type": "difference"}
+{"question_id": 178, "text": "How are these two images different?", "image_0": "7004/bfe994f22c17.jpg", "image_1": "7004/8af442ab89b5.jpg", "type": "difference"}
+{"question_id": 179, "text": "How are these two images different?", "image_0": "7005/9dc7719655b8.jpg", "image_1": "7005/54d055861823.jpg", "type": "difference"}
+{"question_id": 181, "text": "How are these two images different?", "image_0": "7005/7c9a174b715d.jpg", "image_1": "7005/9cfef042f922.jpg", "type": "difference"}
+{"question_id": 182, "text": "How are these two images different?", "image_0": "7005/d19794358dbc.png", "image_1": "7005/5dbdcbc3ecc2.png", "type": "difference"}
+{"question_id": 183, "text": "Were these two images taken of the same thing or different things? How can you tell?", "image_0": "7005/db36c8b41b46.jpg", "image_1": "7005/d96b0a3973fe.jpg", "type": "difference"}
+{"question_id": 184, "text": "How are these two images different?", "image_0": "7005/f93c2862129e.jpg", "image_1": "7005/244b5480df81.jpg", "type": "difference"}
+{"question_id": 185, "text": "How are these two images different?", "image_0": "7005/c16b9d8e45ec.jpg", "image_1": "7005/def1c20758f0.jpg", "type": "difference"}
+{"question_id": 186, "text": "How are these two images different?", "image_0": "7005/9be1b602ffef.jpg", "image_1": "7005/d49ecaf74148.jpg", "type": "difference"}
+{"question_id": 187, "text": "How are these two images different?", "image_0": "7005/6ddf5b10292a.jpg", "image_1": "7005/bf69e8efc8a3.jpg", "type": "difference"}
+{"question_id": 189, "text": "Are these two images identical? Why or why not?", "image_0": "7005/fc28f8660f00.jpg", "image_1": "7005/ccd5b0af7e97.jpg", "type": "difference"}
+{"question_id": 191, "text": "How are these two images different?", "image_0": "7005/8074045617c3.jpg", "image_1": "7005/e05a7e6a9f51.jpg", "type": "difference"}
+{"question_id": 192, "text": "How are these two images different?", "image_0": "7005/bab24876b4cb.jpg", "image_1": "7005/6e4ce473e0dd.jpg", "type": "difference"}
+{"question_id": 193, "text": "How are these two images different?", "image_0": "7005/590ecdb59e20.jpg", "image_1": "7005/52477ca2da1a.jpg", "type": "difference"}
+{"question_id": 194, "text": "How did the scene change betweek these two images?", "image_0": "7005/fd37692894ec.jpg", "image_1": "7005/faa89db00243.jpg", "type": "difference"}
+{"question_id": 195, "text": "How are these two images different?", "image_0": "7005/c976081cb7cc.jpg", "image_1": "7005/55d56db99f22.jpg", "type": "difference"}
+{"question_id": 196, "text": "How are these two images different?", "image_0": "7005/be14fab044d9.jpg", "image_1": "7005/ef5c02318609.jpg", "type": "difference"}
+{"question_id": 197, "text": "How are these two images different?", "image_0": "7005/56b6d6e0c29f.jpg", "image_1": "7005/814980682732.jpg", "type": "difference"}
+{"question_id": 198, "text": "How are these two images different?", "image_0": "7005/4e62c872a9bf.jpg", "image_1": "7005/f8b9c0099da8.jpg", "type": "difference"}
+{"question_id": 199, "text": "How are these two images different?", "image_0": "7005/2e90a304545b.png", "image_1": "7005/b670e31dd09c.jpg", "type": "difference"}
+{"question_id": 4, "text": "How do these images work together to depict a single idea?", "image_0": "7000/1b3ee782e8cc.jpg", "image_1": "7000/e60af51043c2.jpg", "type":"related"}
+{"question_id": 12, "text": "How do these images work together to depict a single idea?", "image_0": "7000/a34f5e04fdc0.jpg", "image_1": "7000/54141893e86a.jpg", "type":"related"}
+{"question_id": 16, "text": "How are these two images related?", "image_0": "7000/22a73d79937d.png", "image_1": "7000/832029f50c41.png", "type":"related"}
+{"question_id": 22, "text": "How are these two images related?", "image_0": "7000/0548d69b4e47.jpg", "image_1": "7000/99733c570f8a.jpg", "type":"related"}
+{"question_id": 32, "text": "How are these two images related?", "image_0": "7000/e6e47a9e0cfe.jpg", "image_1": "7000/1b19e79791eb.jpg", "type":"related"}
+{"question_id": 56, "text": "How are these two images similar?", "image_0": "7001/c41b62f6c97b.jpg", "image_1": "7001/0c1a7e96987d.jpg", "type":"related"}
+{"question_id": 66, "text": "How are these two images related?", "image_0": "7001/3b6c332ddc38.jpg", "image_1": "7001/66cba3f7d4c7.jpg", "type":"related"}
+{"question_id": 81, "text": "How are these two images related?", "image_0": "7002/f9a028304e66.jpg", "image_1": "7002/e965a9b1f310.jpg", "type":"related"}
+{"question_id": 106, "text": "How do these images work together to depict a single idea?", "image_0": "7002/eb042e410d84.jpg", "image_1": "7002/4b3ed57e55cc.jpg", "type":"related"}
+{"question_id": 108, "text": "How are these two images related?", "image_0": "7002/5dec372ee97e.jpg", "image_1": "7002/5ba337bd0535.jpg", "type":"related"}
+{"question_id": 119, "text": "How are these two images related?", "image_0": "7003/7b49b1b565c2.jpg", "image_1": "7003/5c1a1900d852.jpg", "type":"related"}
+{"question_id": 122, "text": "How are these two images related?", "image_0": "7003/52c39aabc6b1.jpg", "image_1": "7003/297e17b16f96.jpg", "type":"related"}
+{"question_id": 123, "text": "How are these two images relevant to each other?", "image_0": "7003/2bcc1648fbab.jpg", "image_1": "7003/e3529a7e837d.jpg", "type":"related"}
+{"question_id": 134, "text": "How are these two images relevant to each other?", "image_0": "7003/e415c0d4b7aa.jpg", "image_1": "7003/1495c92aa2e3.jpg", "type":"related"}
+{"question_id": 141, "text": "How are these two images related?", "image_0": "7003/2688ab4048b4.jpg", "image_1": "7003/385f354c6bd1.jpg", "type":"related"}
+{"question_id": 147, "text": "How are these two images related?", "image_0": "7003/7cfe33fa9e04.jpg", "image_1": "7003/235cf69f3ed6.jpg", "type":"related"}
+{"question_id": 148, "text": "What is the relationship between these two images?", "image_0": "7003/75592a8818e9.jpg", "image_1": "7003/b76f6629fdf6.jpg", "type":"related"}
+{"question_id": 154, "text": "How are these two images related?", "image_0": "7004/3a486ef745b2.jpg", "image_1": "7004/b4cdf784e5b7.jpg", "type":"related"}
+{"question_id": 158, "text": "How are these two images related?", "image_0": "7004/cba737229a50.jpg", "image_1": "7004/6de6a631ac9e.jpg", "type":"related"}
+{"question_id": 164, "text": "How are these two images related?", "image_0": "7004/c24c7db4b2d2.jpg", "image_1": "7004/614f5c05694b.jpg", "type":"related"}
+{"question_id": 167, "text": "How are these two images related?", "image_0": "7004/a9dc0dd34bcb.jpg", "image_1": "7004/cabdc5bf109c.jpg", "type":"related"}
+{"question_id": 176, "text": "How are these two images related?", "image_0": "7004/380c18ded44f.jpg", "image_1": "7004/67c81585f578.jpg", "type":"related"}
+{"question_id": 180, "text": "What is the relationship between these two images?", "image_0": "7005/15442fa55c58.jpg", "image_1": "7005/291cee369145.jpg", "type":"related"}
+{"question_id": 188, "text": "How are these two images related?", "image_0": "7005/d72ce4e05538.jpg", "image_1": "7005/f3a838bb4ac5.jpg", "type":"related"}
+{"question_id": 190, "text": "How are these two images related? How do you know?", "image_0": "7005/819961f87005.jpg", "image_1": "7005/cf37a9ccb20d.jpg", "type":"related"}
+{"question_id": 27, "text": "Count the number of cupcakes across these two images and say how many cupcakes are in each image.", "image_0": "7000/3b8b1cda4fa6.jpg", "image_1": "7000/00215dff88bc.jpg", "type": "counting"}
+{"question_id": 31, "text": "How does the viewpoint of this scene change between the two images?", "image_0": "7000/fab4d0f5ddbe.jpg", "image_1": "7000/d5da3243832e.jpg", "type": "spatial"}
+{"question_id": 36, "text": "What process do these two images depict steps of and what step is shown through the change between these images?", "image_0": "7000/c477da2a5dc7.jpg", "image_1": "7000/a54a502c012a.jpg", "type": "temporal"}
+{"question_id": 46, "text": "What is the progression between these images?", "image_0": "7001/614d86703829.jpg", "image_1": "7001/1af12f8aaeff.jpg", "type": "temporal"}
+{"question_id": 54, "text": "How would I get one of these images from the other?", "image_0": "7001/92efd8354cac.jpg", "image_1": "7001/73a3c6c0ad95.jpg", "type": "spatial"}
+{"question_id": 60, "text": "What happened between when these two images were taken?", "image_0": "7001/fad6d4f36f6b.jpg", "image_1": "7001/de186cd5ed8e.jpg", "type": "temporal"}
+{"question_id": 60, "text": "What happens next in the scene depicted by these two images?", "image_0": "video/img_1.png", "image_1": "video/img_2.png", "type": "temporal"}
+{"question_id": 60, "text": "What happened between when these two images were taken?", "image_0": "video/img_3.png", "image_1": "video/img_4.png", "type": "temporal"}
+{"question_id": 60, "text": "What happened between when these two images were taken?", "image_0": "video/img_5.png", "image_1": "video/img_6.png", "type": "temporal"}
+{"question_id": 60, "text": "What happens next in the scene depicted by these two images?", "image_0": "video/img_7.png", "image_1": "video/img_8.png", "type": "temporal"}
+{"question_id": 60, "text": "What happens next in the scene depicted by these two images?", "image_0": "video/img_10.png", "image_1": "video/img_9.png", "type": "temporal"}
+{"question_id": 60, "text": "What is happening and what happens next in the scene depicted by these two images?", "image_0": "video/img_11.png", "image_1": "video/img_12.png", "type": "temporal"}
+{"question_id": 60, "text": "What happened between when these two images were taken?", "image_0": "video/img_13.png", "image_1": "video/img_14.png", "type": "temporal"}
+{"question_id": 60, "text": "What happens next in the scene depicted by these two images?", "image_0": "video/img_15.png", "image_1": "video/img_16.png", "type": "temporal"}
+{"question_id": 60, "text": "What happens next in the scene depicted by these two images?", "image_0": "video/img_16.png", "image_1": "video/img_17.png", "type": "temporal"}
+{"question_id": 73, "text": "How would the camera need to move between taking these two images to capture both vantage points of this scene?", "image_0": "7001/9513acf29318.jpg", "image_1": "7001/409ad24ed372.jpg", "type": "spatial"}
+{"question_id": 100, "text": "How would the subject of these two images move to go from the first position to the second?", "image_0": "7002/aaef30281aa3.jpg", "image_1": "7002/fc0e1a4cc507.jpg", "type": "spatial"}
+{"question_id": 140, "text": "What process or progression do these images depict?", "image_0": "7003/68eb591652a0.jpg", "image_1": "7003/049ba25d4258.jpg", "type": "temporal"}
+{"question_id": 152, "text": "What occurred in the scene captured by these two images between when they were taken?", "image_0": "7004/cfa56ee641fa.jpg", "image_1": "7004/12899e4f1570.jpg", "type": "temporal"}
+{"question_id": 165, "text": "How does the camera angle change between taking these two images?", "image_0": "7004/de9a3eb43e77.jpg", "image_1": "7004/9c6fa7e4e374.jpg", "type": "spatial"}
+{"question_id": 173, "text": "What process happened between taking these two images?", "image_0": "7004/5a81ec0399df.jpg", "image_1": "7004/11e61b22f74e.jpg", "type": "temporal"}
